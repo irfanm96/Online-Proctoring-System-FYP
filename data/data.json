@@ -1,0 +1,28 @@
+
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "team": [
+            {
+                "name": "Mohamed Irfan",
+                "email": "irfanmm96@gmail.com",
+                "eNumber": "E/15/138"
+            },
+            {
+                "name": "Mohamed Aslam",
+                "email": "email@eng.pdn.ac.lk",
+                "eNumber": "E/yy/xxx"
+            }
+            ],
+            "supervisors": [
+            {
+                "name": "Dr. Supervisor 1",
+                "email": "email@eng.pdn.ac.lk"
+            },
+            {
+                "name": "Supervisor 2",
+                "email": "email@eng.pdn.ac.lk"
+            }
+            ],
+            "description": "This is a brief introduction of the project. You need to use plain text without any specific characters here",
+            "tags": ["Web", "Online Proctoring System","Unsupervised Learning", "Anomaly Detection"]
+        }
