@@ -3,7 +3,7 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
+repository-name: e15-4yp-online-proctoring-system
 title:
 ---
 
@@ -13,14 +13,14 @@ title:
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/15/138, Mohamed Irfan, [email](mailto:irfanmm96@gmail.com)
+- E/15/021, Mohamed Aslam, [email](mailto:e15021@ce.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Ziyan Maraikar, [email](mailto:ziyanm@eng.pdn.ac.lk)
+- Dr. Upul Jayasinghe, [email](mailto:upuljm@eng.pdn.ac.lk)
+- Mr. Mohamed Fawzan, [email](mailto:fawzanm@gmail.com)
 
 #### Table of content
 
